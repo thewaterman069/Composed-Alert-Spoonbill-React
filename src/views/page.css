@@ -1,0 +1,183 @@
+.page-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.page-container2 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.page-text10 {
+  display: inline-block;
+}
+ 
+.page-text11 {
+  display: inline-block;
+}
+ 
+.page-text12 {
+  display: inline-block;
+}
+ 
+.page-text13 {
+  display: inline-block;
+}
+ 
+.page-text14 {
+  display: inline-block;
+}
+ 
+.page-text15 {
+  display: inline-block;
+}
+ 
+.page-text16 {
+  display: inline-block;
+}
+ 
+.page-container3 {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: contain;
+  justify-content: center;
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.72) 0.00%,rgba(255, 255, 255, 0.72) 0.00%),url("/external/kayak-7422299_1280-1500w.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+ 
+.page-max-width {
+  display: flex;
+  max-width: 600px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.page-text17 {
+  font-size: 100px;
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.page-text18 {
+  text-align: center;
+  font-family: "Arial";
+  text-transform: uppercase;
+}
+ 
+.page-text19 {
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.page-navlink {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  border-color: #2256b7;
+  text-decoration: none;
+  background-color: rgb(30, 185, 201);
+}
+ 
+.page-text20 {
+  display: inline-block;
+}
+ 
+.page-text21 {
+  display: inline-block;
+}
+ 
+.page-text22 {
+  display: inline-block;
+}
+ 
+.page-text23 {
+  display: inline-block;
+}
+ 
+.page-text24 {
+  display: inline-block;
+}
+ 
+.page-text25 {
+  display: inline-block;
+}
+ 
+.page-text26 {
+  display: inline-block;
+}
+ 
+.page-text27 {
+  display: inline-block;
+}
+ 
+.page-text28 {
+  display: inline-block;
+}
+ 
+.page-text29 {
+  display: inline-block;
+}
+ 
+.page-text31 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
+.page-text32 {
+  font-style: italic;
+}
+ 
+.page-text33 {
+  display: inline-block;
+}
+ 
+.page-text34 {
+  display: inline-block;
+}
+ 
+.page-text35 {
+  display: inline-block;
+}
+ 
+.page-text36 {
+  display: inline-block;
+}
+ 
+.page-text37 {
+  display: inline-block;
+}
+ 
+.page-text38 {
+  display: inline-block;
+}
+ 
+.page-text39 {
+  display: inline-block;
+}
+ 
+.page-text40 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .page-max-width {
+    align-items: center;
+  }
+  .page-text19 {
+    text-align: center;
+  }
+}
+ 
+

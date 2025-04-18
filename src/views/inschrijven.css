@@ -1,0 +1,186 @@
+.inschrijven-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.inschrijven-text10 {
+  display: inline-block;
+}
+ 
+.inschrijven-text11 {
+  display: inline-block;
+}
+ 
+.inschrijven-text12 {
+  display: inline-block;
+}
+ 
+.inschrijven-text13 {
+  display: inline-block;
+}
+ 
+.inschrijven-text14 {
+  display: inline-block;
+}
+ 
+.inschrijven-text15 {
+  display: inline-block;
+}
+ 
+.inschrijven-text16 {
+  display: inline-block;
+}
+ 
+.inschrijven-text17 {
+  display: inline-block;
+  text-transform: uppercase;
+}
+ 
+.inschrijven-text18 {
+  display: inline-block;
+}
+ 
+.inschrijven-text19 {
+  display: inline-block;
+}
+ 
+.inschrijven-container2 {
+  display: flex;
+  position: relative;
+  padding-top: 0px;
+}
+ 
+.inschrijven-max-width {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.inschrijven-container3 {
+  align-self: stretch;
+  align-items: center;
+}
+ 
+.inschrijven-text20 {
+  display: inline-block;
+}
+ 
+.inschrijven-text21 {
+  display: inline-block;
+}
+ 
+.inschrijven-text22 {
+  display: inline-block;
+}
+ 
+.inschrijven-text31 {
+  display: inline-block;
+}
+ 
+.inschrijven-text32 {
+  display: inline-block;
+}
+ 
+.inschrijven-text37 {
+  display: inline-block;
+}
+ 
+.inschrijven-text38 {
+  display: inline-block;
+}
+ 
+.inschrijven-text45 {
+  display: inline-block;
+}
+ 
+.inschrijven-text46 {
+  display: inline-block;
+}
+ 
+.inschrijven-text47 {
+  display: inline-block;
+}
+ 
+.inschrijven-text48 {
+  display: inline-block;
+}
+ 
+.inschrijven-text49 {
+  display: inline-block;
+}
+ 
+.inschrijven-text50 {
+  display: inline-block;
+}
+ 
+.inschrijven-text51 {
+  display: inline-block;
+}
+ 
+.inschrijven-text52 {
+  display: inline-block;
+}
+ 
+.inschrijven-text53 {
+  display: inline-block;
+}
+ 
+.inschrijven-text54 {
+  display: inline-block;
+}
+ 
+.inschrijven-text56 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
+.inschrijven-text57 {
+  font-style: italic;
+}
+ 
+.inschrijven-text58 {
+  display: inline-block;
+}
+ 
+.inschrijven-text59 {
+  display: inline-block;
+}
+ 
+.inschrijven-text60 {
+  display: inline-block;
+}
+ 
+.inschrijven-text61 {
+  display: inline-block;
+}
+ 
+.inschrijven-text62 {
+  display: inline-block;
+}
+ 
+.inschrijven-text63 {
+  display: inline-block;
+}
+ 
+.inschrijven-text64 {
+  display: inline-block;
+}
+ 
+.inschrijven-text65 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .inschrijven-container3 {
+    flex-direction: column;
+  }
+}

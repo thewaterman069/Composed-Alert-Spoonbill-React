@@ -1,0 +1,151 @@
+.stats4-max-width {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats4-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  z-index: 100;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+ 
+.stats4-container3 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats4-text10 {
+  font-size: 38px;
+}
+ 
+.stats4-text11 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.stats4-text12 {
+  text-align: center;
+}
+ 
+.stats4-container4 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 32px;
+}
+ 
+.stats4-text13 {
+  font-size: 38px;
+}
+ 
+.stats4-text14 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.stats4-text15 {
+  text-align: center;
+}
+ 
+.stats4-container5 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats4-text16 {
+  font-size: 38px;
+}
+ 
+.stats4-text17 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.stats4-text18 {
+  text-align: center;
+}
+ 
+.stats4-image {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  opacity: 0.5;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.stats4-text19 {
+  display: inline-block;
+}
+ 
+.stats4-text20 {
+  display: inline-block;
+}
+ 
+.stats4-text21 {
+  display: inline-block;
+}
+ 
+.stats4-text22 {
+  display: inline-block;
+}
+ 
+.stats4-text23 {
+  display: inline-block;
+}
+ 
+.stats4-text24 {
+  display: inline-block;
+}
+ 
+.stats4-text25 {
+  display: inline-block;
+}
+ 
+.stats4-text26 {
+  display: inline-block;
+}
+ 
+.stats4-text27 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .stats4-container2 {
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+  }
+  .stats4-container3 {
+    align-self: flex-start;
+  }
+  .stats4-container4 {
+    align-self: flex-start;
+  }
+  .stats4-container5 {
+    align-self: flex-start;
+  }
+}

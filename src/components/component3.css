@@ -1,0 +1,145 @@
+.component3-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.component3-max-width {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.component3-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.component3-ul {
+  align-items: flex-start;
+}
+ 
+.component3-heading1 {
+  align-self: flex-start;
+}
+ 
+.component3-text10 {
+  display: inline-block;
+}
+ 
+.component3-text11 {
+  display: inline-block;
+}
+ 
+.component3-text12 {
+  display: inline-block;
+}
+ 
+.component3-text13 {
+  display: inline-block;
+}
+ 
+.component3-text14 {
+  display: inline-block;
+}
+ 
+.component3-content12 {
+  display: inline-block;
+}
+ 
+.component3-text15 {
+  font-style: italic;
+}
+ 
+.component3-text19 {
+  display: inline-block;
+}
+ 
+.component3-text20 {
+  display: inline-block;
+}
+ 
+.component3-content617 {
+  display: inline-block;
+}
+ 
+.component3-link1 {
+  text-decoration: underline;
+}
+ 
+.component3-link2 {
+  text-decoration: underline;
+}
+ 
+.component3-content618 {
+  display: inline-block;
+}
+ 
+.component3-text43 {
+  font-style: italic;
+}
+ 
+.component3-link3 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
+.component3-content32 {
+  display: inline-block;
+}
+ 
+.component3-content619 {
+  display: inline-block;
+}
+ 
+.component3-content620 {
+  display: inline-block;
+}
+ 
+.component3-text67 {
+  display: inline-block;
+}
+ 
+.component3-text68 {
+  display: inline-block;
+}
+ 
+.component3-text69 {
+  display: inline-block;
+}
+ 
+.component3-text70 {
+  display: inline-block;
+}
+ 
+.component3-text71 {
+  display: inline-block;
+}
+ 
+.component3-text72 {
+  display: inline-block;
+}
+ 
+.component3-content621 {
+  display: inline-block;
+}
+ 
+.component3-text77 {
+  display: inline-block;
+}
+ 
+.component3-text78 {
+  display: inline-block;
+}
+ 
+.component3-text79 {
+  display: inline-block;
+}
+ 
+.component3-text80 {
+  display: inline-block;
+}

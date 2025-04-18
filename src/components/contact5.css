@@ -1,0 +1,146 @@
+.contact5-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  padding-top: 38px;
+  flex-direction: column;
+}
+ 
+.contact5-max-width {
+  align-self: center;
+}
+ 
+.contact5-section-title {
+  width: 100%;
+}
+ 
+.contact5-content1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-text11 {
+  width: 1039px;
+}
+ 
+.contact5-content2 {
+  width: 100%;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.contact5-content3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-content4 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-contact-info1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-text12 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact5-content5 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-contact-info2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-text14 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact5-content6 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-contact-info3 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact5-text17 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact5-google-maps {
+  width: 600px;
+  height: 648px;
+  margin-top: 43px;
+  margin-bottom: 53px;
+}
+ 
+.contact5-text19 {
+  display: inline-block;
+}
+ 
+.contact5-text20 {
+  display: inline-block;
+}
+ 
+.contact5-text21 {
+  display: inline-block;
+}
+ 
+.contact5-text22 {
+  display: inline-block;
+}
+ 
+.contact5-text23 {
+  display: inline-block;
+}
+ 
+.contact5-text24 {
+  display: inline-block;
+}
+ 
+.contact5-text29 {
+  display: inline-block;
+}
+ 
+.contact5-text30 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .contact5-content2 {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

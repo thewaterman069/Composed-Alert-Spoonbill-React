@@ -1,0 +1,87 @@
+.hero9-container1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  bottom: 0px;
+  height: 332px;
+  display: flex;
+  opacity: 0.7;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/g0050920-1500w-1500w.jpg");
+  background-position: right;
+}
+ 
+.hero9-max-width {
+  width: 100%;
+  display: flex;
+  z-index: 1;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero9-container2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero9-content {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero9-text1 {
+  width: 1064px;
+  text-align: left;
+  font-family: "Arial Black";
+}
+ 
+.hero9-text2 {
+  width: 1071px;
+  height: 30px;
+  text-align: left;
+}
+ 
+.hero9-button {
+  color: #ffffff;
+  display: block;
+  align-self: flex-start;
+  text-align: left;
+  border-color: #0893bf;
+  background-color: #0893bf;
+}
+ 
+.hero9-text4 {
+  display: inline-block;
+  font-family: "Arial Black";
+}
+ 
+.hero9-text5 {
+  display: grid;
+}
+ 
+.hero9-text6 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .hero9-text1 {
+    text-align: center;
+  }
+  .hero9-text2 {
+    text-align: center;
+  }
+  .hero9-button {
+    align-self: center;
+  }
+}
+ 
+

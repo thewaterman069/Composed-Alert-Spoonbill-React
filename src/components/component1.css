@@ -1,0 +1,18 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+ 
+.component1-link {
+  align-self: flex-start;
+  margin-top: 19px;
+  text-decoration: none;
+}
+ 
+.component1-text2 {
+  display: inline-block;
+}
+ 
+.component1root-class-name {
+  align-self: flex-start;
+}
